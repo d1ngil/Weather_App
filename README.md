@@ -2,6 +2,7 @@
 
 A simple desktop weather application built with Python and PyQt5.  
 It allows users to enter a city name and view the current temperature, description, and a matching weather emoji.
+
 I did it for educational purposes
 
 ## 🚀 Features
