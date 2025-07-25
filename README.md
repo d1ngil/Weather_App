@@ -26,3 +26,7 @@ I did it for educational purposes
    ```bash
    git clone https://github.com/d1ngil/Weather_App.git
    cd Weather_App
+
+## 📸 App view
+
+![Weatherapp Screenshot](./app.png)
